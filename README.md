@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://www.natue.com.br">
-      <img src="https://www.cognitiveclouds.com/img/h/logo_blue@2x.png" alt="Cognitiveclouds"/>
+  <a href="https://www.cognitiveclouds.com">
+      <img src="https://media.licdn.com/dms/image/C4E0BAQFFOu_LYPeBow/company-logo_400_400/0?e=1560384000&v=beta&t=xmTg-Ns3AkZYbbIw6178VC52O1bmCxbV4TNF7uNWxPg" alt="Cognitiveclouds"/>
   </a>
 </p>
 
