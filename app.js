@@ -25,11 +25,10 @@ app.get('/api/products', function (req, res) {
          if(req.query.order===''){
       var order='asc';}
       else{order=req.query.order;}
-      console.log(req.query.spec.length<0);
-      if(req.query.spec.length<0===false){
+      console.log(req.query.spec.length);
+      if(req.query.spec.length<1){
               console.log('spec not specified');
               findproduct(sort,order,obj);
-
       }
       else {
             var spec=req.query.spec;
