@@ -4,7 +4,7 @@
   </a>
 </p>
 ## Product search
-get method run example http://localhost/api/products (to view all products) customize search with specification and order by price http://localhost/api/products?sort=price&order=asc&spec=sugar-free
+get method run example http://localhost/api/products (to view all products) customize search with specification and order by price http://localhost/api/products?sort=price&order=asc&spec[]=sugar-free
 
 this will order products by "price asc" and specification which has sugar-free like that you can search the products
 ## Challenge for Backend Developer
