@@ -3,7 +3,10 @@
       <img src="https://media.licdn.com/dms/image/C4E0BAQFFOu_LYPeBow/company-logo_400_400/0?e=1560384000&v=beta&t=xmTg-Ns3AkZYbbIw6178VC52O1bmCxbV4TNF7uNWxPg" alt="Cognitiveclouds"/>
   </a>
 </p>
+## Product search
+get method run example http://localhost/api/products (to view all products) customize search with specification and order by price http://localhost/api/products?sort=price&order=asc&spec=sugar-free
 
+this will order products by "price asc" and specification which has sugar-free like that you can search the products
 ## Challenge for Backend Developer
 
 A customer needs to search in our product catalog (available in this <a href="https://github.com/ArvindNarayanCognitive/challenge/blob/master/products.json">JSON</a>) and he wants to find products that match your food restrictions.

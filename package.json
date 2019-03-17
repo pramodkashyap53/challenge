@@ -1,0 +1,15 @@
+{
+  "name": "challenge-master",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://www.cognitiveclouds.com\">       <img src=\"https://media.licdn.com/dms/image/C4E0BAQFFOu_LYPeBow/company-logo_400_400/0?e=1560384000&v=beta&t=xmTg-Ns3AkZYbbIw6178VC52O1bmCxbV4TNF7uNWxPg\" alt=\"Cognitiveclouds\"/>   </a> </p>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
